@@ -3,7 +3,9 @@
 <h3 align="center">
 Data Analyst | Python | SQL | Power BI | Machine Learning
 </h3>
-
+<h3 align ="center">
+  Connect with me 
+</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yourlinkedin">
 <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -17,6 +19,10 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,jupyter,powerbi,github" />
 </p>
-                                             
 
+### 📫 Contact Me
+<p align="center">
+📧 Email: your-email@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/yourprofile
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitsharma12321&show_icons=true)
+</p>
