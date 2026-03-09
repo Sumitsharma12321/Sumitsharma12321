@@ -7,8 +7,8 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
   Connect with me 
 </h3>
 <p align="center">
-<a href="www.linkedin.com/in/sumit-sharma-9a7750319">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/sumit-sharma-9a7750319" target="_blank">
+<img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 </p>
 
