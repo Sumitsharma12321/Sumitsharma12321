@@ -25,5 +25,11 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
   
 💼 LinkedIn: www.linkedin.com/in/sumit-sharma-9a7750319
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitsharma12321&show_icons=true)
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Python+Developer;SQL+Enthusiast&center=true&width=500&height=45">
 </p>
