@@ -27,3 +27,5 @@ Python | MySQL | Power BI | Jupyter Notebook | Git
 ## 📫 Contact Me
 Email: sumitsharma9098660389@gmail.com  
 LinkedIn: https://linkedin.com/in/yourprofile
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitsharma12321&show_icons=true)
