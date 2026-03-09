@@ -15,7 +15,7 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 ### 🚀 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,power BI,Exceljupyter notebook" />
+<img src="https://skillicons.dev/icons?i=python,mysql,jupyter,powerbi,github" />
 </p>
                                              
 
