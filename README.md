@@ -7,7 +7,7 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
   Connect with me 
 </h3>
 <p align="center">
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="www.linkedin.com/in/sumit-sharma-9a7750319">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
@@ -17,14 +17,13 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 ### 🚀 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,jupyter,powerbi,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,github" />
 </p>
 
 ### 📫 Contact Me
-<p align="center">
 📧 Email: sumitsharma9098660389@gmail.com  
   
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: www.linkedin.com/in/sumit-sharma-9a7750319
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitsharma12321&show_icons=true)
 </p>
