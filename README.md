@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🎓 Fresher actively looking for opportunities in <b>Data Analytics / Data Science</b> &nbsp;|&nbsp;
+  🎓 Fresher actively looking for opportunities in <b>Data Analytics / Data Science / AI Engineer</b> &nbsp;|&nbsp;
   📍 India
 </p>
 
