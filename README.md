@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
-<h3 align="center">Aspiring Data Scientist | Python | SQL | Power BI | Machine Learning</h3>
+<h3 align="center">AI Engineer| Rag Pipeline | Agent | Python | SQL | Power BI | Machine Learning</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumitsharma12321&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,14 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
 
-- 🔭 I build end-to-end data projects — from raw datasets to **cleaned data, SQL queries, EDA, and Power BI dashboards**
-- 🧠 Comfortable across the full analysis workflow: **Python (Pandas, NumPy) → SQL → Visualization → Insights**
-- 🤖 Currently exploring **Machine Learning** — my Heart Disease project applies classification models to a real health dataset
-- 🌱 Sharpening problem-solving skills daily on **LeetCode**
-- 🎯 Looking for an opportunity as a **Data Analyst / Junior Data Scientist** where I can apply and grow these skills
-- 📫 Open to internships, entry-level roles, and freelance data projects — reach out anytime!
 
 ---
 
@@ -64,59 +57,8 @@
 
 ---
 
-### 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
 
-#### 🛍️ [Customer Behavior Analysis](https://github.com/Sumitsharma12321/customer-behavior-analysis)
-Analyzed customer purchasing behavior using **Python, SQL, and Power BI** — from data cleaning to an interactive dashboard.
-`Python` `SQL` `Power BI`
-
-</td>
-<td width="50%">
-
-#### 🏠 [Airbnb Market Analysis](https://github.com/Sumitsharma12321/Airbnb-Market-Analysis)
-Exploratory data analysis on Airbnb listings to uncover pricing trends and market patterns.
-`Python` `EDA` `Data Visualization`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎯 [Black Friday Sales Analysis](https://github.com/Sumitsharma12321/Black-friday-sales-analysis)
-Analyzed retail sales data to identify purchasing patterns and customer segments during Black Friday.
-`Python` `Pandas` `EDA`
-
-</td>
-<td width="50%">
-
-#### ❤️ [Heart Disease Analysis](https://github.com/Sumitsharma12321/Heart_Disease_Analysis)
-Applied classification models to predict heart disease risk from patient health data.
-`Python` `scikit-learn` `Machine Learning`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🌾 [Sugarcane Production Analysis](https://github.com/Sumitsharma12321/Sugarcane_Production_Analysis)
-Analyzed agricultural production data to explore trends in sugarcane yield.
-`Python` `Data Analysis`
-
-</td>
-<td width="50%">
-
-#### 📂 More on GitHub
-Check out the [full repository list](https://github.com/Sumitsharma12321?tab=repositories) for additional notebooks and analyses.
-
-</td>
-</tr>
-</table>
-
----
 
 ### 📊 GitHub Stats
 
